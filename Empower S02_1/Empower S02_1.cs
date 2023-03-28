@@ -76,6 +76,7 @@ namespace Empower_S02_1
 			{
 				engine.GenerateInformation("element: " + element.Name);
 			}
+			engine.GenerateInformation("Finish!");
 		}
 	}
 }
